@@ -1,3 +1,7 @@
+## Solidity Examples
+
+For reference please check [this list](https://cryptomarketpool.com/getting-started-with-solidity/).
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
